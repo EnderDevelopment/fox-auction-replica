@@ -1,0 +1,12 @@
+name: DonutSMPAuctionReplica
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+description: Lightweight DonutSMP-style auction house replica.
+commands:
+  ah:
+    description: Opens the auction house.
+    usage: /ah
+  foxah:
+    description: Opens the auction house.
+    usage: /foxah
